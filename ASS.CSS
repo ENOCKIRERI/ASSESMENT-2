@@ -1,0 +1,36 @@
+#app {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    color:black;
+    font-family: sans-serif;
+    background-color:grey;
+    margin: 20px;
+    justify-content: center;
+    display: inline-block;
+  }
+  #app :hover{
+    color: green;
+  }
+  
+  li {
+    list-style: none;
+    margin-top: 10px;
+    background-color: green ;
+    font-family: sans-serif;
+    border: none;
+    cursor: pointer;
+  }
+li :hover{
+    color: aqua;
+}
+  button{
+    background-color: coral;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    margin: 2px;
+    padding: ;
+  }
+  
